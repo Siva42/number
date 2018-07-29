@@ -8,16 +8,16 @@ Scanner sc=new Scanner(System.in);
 num=sc.nextInt();
 if(i==2)
 {
-	System.out.println("prime number");
+	System.out.println("yes");
 }
  else if(num%i==0)
 	{
 		
-		System.out.println(" not a prime number");
+		System.out.println(" no");
 }
 else
 {
-			System.out.println(" prime number");
+			System.out.println("yes");
 }
 }
 }
