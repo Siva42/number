@@ -17,9 +17,9 @@ class pali{
         }
 
                 if (originalInteger == reversedInteger)
-            System.out.println(originalInteger + " is a palindrome.");
+            System.out.println(originalInteger + " yes");
 else
-            System.out.println(originalInteger + " is not a palindrome.");
+            System.out.println(originalInteger + " no");
 
 // your code goes here
 	}
