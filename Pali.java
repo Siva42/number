@@ -1,5 +1,5 @@
 
-class Ideone{
+class pali{
 	public static void main (String[] args) throws java.lang.Exception
 	{
 		
