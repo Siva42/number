@@ -10,7 +10,7 @@ class Ideone
 	public static void main (String[] args) throws java.lang.Exception
 	{
 			
-			String test =" laptop is good"
+			String test =" laptop is good";
 		count(test);
 
 	}
