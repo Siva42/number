@@ -9,8 +9,8 @@ class Ideone
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{
-			Scanner sc=new Scanner(System.in);
-			String test = sc.next();
+			
+			String test =" laptop is good"
 		count(test);
 
 	}
