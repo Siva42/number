@@ -25,6 +25,5 @@ class Ideone
 	 	{
 	 		System.out.print(s2);
 	 	}
-// your code goes here
 	}
 }
