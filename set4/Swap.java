@@ -15,6 +15,6 @@ class Ideone
 		temp=a;
 		a=b;
 		b=temp;
-		System.out.print(a+"  "+b);	// your code goes here
+		System.out.print(a+"  "+b);
 	}
 }
