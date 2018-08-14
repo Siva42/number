@@ -19,7 +19,7 @@ class Ideone
  
 			}
 		}
- 		System.out.println("Number of words in a string = " + count);
+ 		System.out.println(count);
 	}
 }
 
