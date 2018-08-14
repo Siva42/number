@@ -25,4 +25,3 @@ class Ideone
 		}
 	}
 }
-Success	#stdin #stdout 0.12s 29284KB
