@@ -15,11 +15,14 @@ num=sc.next Int();
 		if(num%2==0)
 {
 System.out.println("even number");
-}
-else
-{
-System.out.println("invalid");
-}
+		}
+		
+		
+
+		else
+		{
+			System.out.println("invalid");
 
 }
 }
+ }
