@@ -1,4 +1,9 @@
-class ideone
+import java.util.*;
+import java.lang.*;
+import java.io.*;
+import java.io.Scanner;
+
+ class ideone
 {
 
 	public static void main (String[] args) throws java.lang.Exception
@@ -13,7 +18,7 @@ System.out.println("even number");
 }
 else
 {
-System.out.println("odd number");
+System.out.println("invalid");
 }
 
 }
