@@ -17,9 +17,9 @@ class Ideone
 			System.out.println("zero");
 		
 		}
-		else if(number>0)
+		if(number>0)
 		{
-			System.out.println("positive");
+			System.out.println("Positive);
 			
 		}
 		
